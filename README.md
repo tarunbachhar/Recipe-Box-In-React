@@ -15,4 +15,4 @@ Recipe-Box-React.js
 - Then type "npm run build" this will build a compiled version of the project
 - Then type "npm run start" this will open the project in your local browser
 
-### The basic idea of this project also be used to build a TODO - List App
+### The basic idea of this project can also be used to build a TODO - List App
